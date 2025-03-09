@@ -1,0 +1,14 @@
+C:\Users\ronny\OneDrive\Documentos\Experimental3\bin\Debug\net9.0\Experimental3.exe
+C:\Users\ronny\OneDrive\Documentos\Experimental3\bin\Debug\net9.0\Experimental3.deps.json
+C:\Users\ronny\OneDrive\Documentos\Experimental3\bin\Debug\net9.0\Experimental3.runtimeconfig.json
+C:\Users\ronny\OneDrive\Documentos\Experimental3\bin\Debug\net9.0\Experimental3.dll
+C:\Users\ronny\OneDrive\Documentos\Experimental3\bin\Debug\net9.0\Experimental3.pdb
+C:\Users\ronny\OneDrive\Documentos\Experimental3\obj\Debug\net9.0\Experimental3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronny\OneDrive\Documentos\Experimental3\obj\Debug\net9.0\Experimental3.AssemblyInfoInputs.cache
+C:\Users\ronny\OneDrive\Documentos\Experimental3\obj\Debug\net9.0\Experimental3.AssemblyInfo.cs
+C:\Users\ronny\OneDrive\Documentos\Experimental3\obj\Debug\net9.0\Experimental3.csproj.CoreCompileInputs.cache
+C:\Users\ronny\OneDrive\Documentos\Experimental3\obj\Debug\net9.0\Experimental3.dll
+C:\Users\ronny\OneDrive\Documentos\Experimental3\obj\Debug\net9.0\refint\Experimental3.dll
+C:\Users\ronny\OneDrive\Documentos\Experimental3\obj\Debug\net9.0\Experimental3.pdb
+C:\Users\ronny\OneDrive\Documentos\Experimental3\obj\Debug\net9.0\Experimental3.genruntimeconfig.cache
+C:\Users\ronny\OneDrive\Documentos\Experimental3\obj\Debug\net9.0\ref\Experimental3.dll
